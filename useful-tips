@@ -1,0 +1,10 @@
+// Blocks can have a label
+let result = 'block: {
+    // ...
+    break 'block a * b;
+};
+
+// break can be used to return from a loop
+loop {
+ break 
+}
